@@ -1,0 +1,5 @@
+{
+  "name": "git-workflow",
+  "description": "Git 操作に関するワークフローを提供するプラグイン",
+  "version": "1.0.0"
+}

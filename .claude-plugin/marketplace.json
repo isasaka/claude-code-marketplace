@@ -1,0 +1,19 @@
+{
+  "name": "isasaka-plugins",
+  "owner": {
+    "name": "isasaka"
+  },
+  "metadata": {
+    "description": "個人用の Claude Code プラグイン集",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "git-workflow",
+      "source": "git-workflow",
+      "description": "Git 操作に関するワークフローを提供するプラグイン",
+      "version": "1.0.0"
+    }
+  ]
+}
